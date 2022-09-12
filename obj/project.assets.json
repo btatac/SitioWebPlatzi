@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\GIT\\Cursos\\WebAppsAzure\\SitioWebPlatzi\\PlatziWebSite\\PlatziWebSite.csproj",
+      "projectUniqueName": "C:\\Development\\GIT\\Cursos\\WebAppsAzure\\PlatziWebSite\\PlatziWebSite.csproj",
       "projectName": "PlatziWebSite",
-      "projectPath": "C:\\Development\\GIT\\Cursos\\WebAppsAzure\\SitioWebPlatzi\\PlatziWebSite\\PlatziWebSite.csproj",
+      "projectPath": "C:\\Development\\GIT\\Cursos\\WebAppsAzure\\PlatziWebSite\\PlatziWebSite.csproj",
       "packagesPath": "C:\\Users\\cast801418\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\GIT\\Cursos\\WebAppsAzure\\SitioWebPlatzi\\PlatziWebSite\\obj\\",
+      "outputPath": "C:\\Development\\GIT\\Cursos\\WebAppsAzure\\PlatziWebSite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
